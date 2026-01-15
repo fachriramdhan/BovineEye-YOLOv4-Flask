@@ -34,7 +34,7 @@
 ---
 
 ## 🛠️ Stack Teknologi (Tech Stack)
-
+```
 <table width="100%">
   <tr>
     <th width="50%">💻 Frontend (Client Side)</th>
@@ -63,7 +63,7 @@
     </td>
   </tr>
 </table>
-
+```
 ---
 
 ## 📐 Arsitektur Sistem
