@@ -35,24 +35,34 @@
 
 ## 🛠️ Stack Teknologi (Tech Stack)
 
-### **Frontend (Client Side)**
+<table width="100%">
+  <tr>
+    <th width="50%">💻 Frontend (Client Side)</th>
+    <th width="50%">⚙️ Backend & AI Engine (Server Side)</th>
+  </tr>
+  <tr>
+    <td valign="top">
+      
+| Teknologi | Kegunaan | Badge |
+| :--- | :--- | :--- |
+| **HTML5** | Struktur | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
+| **Tailwind** | Styling | ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
+| **JS** | Interaksi | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **Icon** | Visual | ![FontAwesome](https://img.shields.io/badge/-FontAwesome-339AF0?style=flat-square&logo=font-awesome&logoColor=white) |
 
-| Teknologi        | Kegunaan       | Badge                                                                                                                |
-| :--------------- | :------------- | :------------------------------------------------------------------------------------------------------------------- |
-| **HTML5**        | Struktur Dasar | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)                    |
-| **Tailwind CSS** | Styling & UI   | ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)    |
-| **JavaScript**   | Interaktivitas | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)             |
-| **Font Awesome** | Ikon Visual    | ![FontAwesome](https://img.shields.io/badge/-FontAwesome-339AF0?style=flat-square&logo=font-awesome&logoColor=white) |
+    </td>
+    <td valign="top">
 
-### **Backend & AI Engine (Server Side)**
+| Teknologi | Kegunaan | Badge |
+| :--- | :--- | :--- |
+| **Python** | Logic | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Flask** | Framework | ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white) |
+| **OpenCV** | Citra | ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) |
+| **YOLOv4** | Deteksi | ![YOLO](https://img.shields.io/badge/-YOLOv4-00FFFF?style=flat-square&logo=ai&logoColor=black) |
 
-| Teknologi    | Kegunaan           | Badge                                                                                                      |
-| :----------- | :----------------- | :--------------------------------------------------------------------------------------------------------- |
-| **Python**   | Logic & Processing | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)       |
-| **Flask**    | Web Framework      | ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)          |
-| **OpenCV**   | Citra Digital      | ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)       |
-| **YOLOv4**   | Algoritma Deteksi  | ![YOLO](https://img.shields.io/badge/-YOLOv4-00FFFF?style=flat-square&logo=ai&logoColor=black)             |
-| **Roboflow** | Cloud Inference    | ![Roboflow](https://img.shields.io/badge/-Roboflow-6706CE?style=flat-square&logo=roboflow&logoColor=white) |
+    </td>
+  </tr>
+</table>
 
 ---
 
