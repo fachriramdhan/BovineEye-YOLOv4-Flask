@@ -1,7 +1,7 @@
 # 🐄 BovineEye-AI: Intelligent Cattle Pink-Eye Detection System
 
 <div align="center">
-  <img src="screenshot.png" alt="BovineEye-AI Banner" width="800" style="border-radius: 15px shadow: 10px">
+  <img src="screenshoot.png" alt="BovineEye-AI Banner" width="800" style="border-radius: 15px shadow: 10px">
   
   <p align="center">
     <strong>APLIKASI DETEKSI DINI PENYAKIT MATA PINK-EYE PADA SAPI BERBASIS CITRA MENGGUNAKAN MODEL DEEP LEARNING ALGORITMA YOLOv4</strong>
