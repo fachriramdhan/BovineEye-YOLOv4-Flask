@@ -34,24 +34,6 @@
 ---
 
 ## 🛠️ Stack Teknologi (Tech Stack)
-```
-<table width="100%">
-  <tr>
-    <th width="50%">💻 Frontend (Client Side)</th>
-    <th width="50%">⚙️ Backend & AI Engine (Server Side)</th>
-  </tr>
-  <tr>
-    <td valign="top">
-      
-| Teknologi | Kegunaan | Badge |
-| :--- | :--- | :--- |
-| **HTML5** | Struktur | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
-| **Tailwind** | Styling | ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
-| **JS** | Interaksi | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **Icon** | Visual | ![FontAwesome](https://img.shields.io/badge/-FontAwesome-339AF0?style=flat-square&logo=font-awesome&logoColor=white) |
-
-    </td>
-    <td valign="top">## 🛠️ Stack Teknologi (Tech Stack)
 
 <table width="100%">
   <tr>
@@ -77,7 +59,7 @@
     </td>
   </tr>
 </table>
-```
+
 ---
 
 ## 📐 Arsitektur Sistem
