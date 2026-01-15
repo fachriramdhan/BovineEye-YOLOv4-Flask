@@ -77,6 +77,7 @@
     </td>
   </tr>
 </table>
+```
 ---
 
 ## 📐 Arsitektur Sistem
