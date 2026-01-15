@@ -35,7 +35,7 @@
 
 ## 🛠️ Stack Teknologi (Tech Stack)
 
-<table width="100%">
+<table width="100%" aligth="center">
   <tr>
     <th width="50%">💻 Frontend (Client Side)</th>
     <th width="50%">⚙️ Backend & AI Engine (Server Side)</th>
