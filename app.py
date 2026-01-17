@@ -102,6 +102,7 @@ def detect():
         return jsonify({"error": str(e)}), 500
 
 if __name__ == "__main__":
-    # Railway memberikan port lewat environment variable
+    # Railway akan mengisi variabel PORT secara otomatis
     port = int(os.environ.get("PORT", 5000))
+    # Gunakan host '0.0.0.0' agar aplikasi bisa menerima koneksi luar
     app.run(host='0.0.0.0', port=port)
