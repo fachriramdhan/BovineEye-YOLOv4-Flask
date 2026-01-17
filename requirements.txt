@@ -1,4 +1,5 @@
 flask
 inference-sdk
-opencv-python
+opencv-python-headless
+gunicorn
 numpy
