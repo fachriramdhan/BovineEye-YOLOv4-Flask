@@ -4,6 +4,11 @@ import cv2
 import os
 import uuid
 
+# Gunakan ini agar folder dibuat secara otomatis di server
+UPLOAD_FOLDER = 'static/results'
+if not os.path.exists(UPLOAD_FOLDER):
+    os.makedirs(UPLOAD_FOLDER, exist_ok=True)
+
 app = Flask(__name__)
 
 # ========================== KONFIGURASI ROBOFLOW SDK ==========================
