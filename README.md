@@ -135,5 +135,6 @@ Sistem ini menggunakan alur kerja terintegrasi sebagai berikut:
 ---
 
 **Peneliti:** Fachri Ramdhan  
-**Fokus Penelitian:** Deteksi Dini Penyakit Mata Pink-Eye pada Sapi berbasis citra
+**Fokus Penelitian:** APLIKASI DETEKSI DINI PENYAKIT MATA PINK-EYE PADA SAPI BERBASIS CITRA MENGGUNAKAN MODEL DEEP LEARNING ALGORITMA YOLOv4
+**Repository Skripsi:** http://repository.unsada.ac.id/5030/
 **Universitas Darma Persada**
